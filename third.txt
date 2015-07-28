@@ -1,1 +1,2 @@
 third
+the third file changes to know the command diff then git status
