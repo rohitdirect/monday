@@ -1,4 +1,0 @@
-third
-
-yes... i made changes in second line of third file...
-the third file changes to know the command diff then git status
